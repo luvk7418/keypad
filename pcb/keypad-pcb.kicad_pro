@@ -496,9 +496,9 @@
       "idf": "",
       "netlist": "",
       "plot": "gerber/",
-      "pos_files": "",
+      "pos_files": "gerber/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keypad-pcb.step",
       "svg": "",
       "vrml": ""
     },

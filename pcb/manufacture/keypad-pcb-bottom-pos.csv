@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uf,C_0805_2012Metric,64.313,-78.664,-90,bottom
+C2,0.1uf,C_0805_2012Metric,74.168,-71.755,0,bottom
+C3,0.1uf,C_0805_2012Metric,85.979,-78.486,90,bottom
+C4,0.1uf,C_0805_2012Metric,80.518,-89.535,180,bottom
+C5,10uf,C_0805_2012Metric,64.694,-87.681,-90,bottom
+C6,22pf,C_0805_2012Metric,96.835,-87.1505,180,bottom
+C7,22pf,C_0805_2012Metric,96.835,-77.4985,0,bottom
+D1,D_Small,D_SOD-123,81.967117,-63.873281,90,bottom
+D2,D_Small,D_SOD-123,90.678,-67.945,0,bottom
+F1,500mA,Fuse_1206_3216Metric,53.316,-72.798,-90,bottom
+R1,10k,R_0805_2012Metric,86.741,-86.299,-90,bottom
+R2,22,R_0805_2012Metric,59.412,-67.591,90,bottom
+R3,22,R_0805_2012Metric,56.999,-67.591,-90,bottom
+R4,10k,R_0805_2012Metric,68.834,-71.12,90,bottom
+SW1,SW_Push,SKQG-1155865,57.023,-86.233,0,bottom
+U1,ATmega32U4-A,TQFP-44_10x10mm_P0.8mm,76.505,-81.331,0,bottom
+USB1,Molex-0548190589,Molex-0548190589,58.777,-55.992,-90,bottom
+Y1,Crystal_GND24_Small,Crystal_SMD_3225-4Pin_3.2x2.5mm,96.835,-82.4515,90,bottom
