@@ -1,1 +1,1 @@
-This repository has the files I made in designing a two-key keypad, particularly the PCB and the case I used for it.
+This repository has the files I made in designing a two-key keypad, particularly the PCB and the case I used for it. This keypad was designed for a school project where I could make anything I wanted, or explain the physics of something.
